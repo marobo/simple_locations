@@ -1,0 +1,3 @@
+[submodule "timor_geodata"]
+	path = timor_geodata
+	url = git@github.com:marobo/timor_geodata.git
